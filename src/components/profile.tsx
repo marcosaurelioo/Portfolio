@@ -32,12 +32,15 @@ export function Profile() {
         </p>
 
         <p className={hubballiTypography.className}>
-          As an experienced full-stack developer, I have been working with
-          Reactjs, Nodejs, Nextjs, unit testing, test coverage, JavaScript, and
-          TypeScript. I am always willing to learn new technologies like
-          artificial intelligence. AI has been a subject of great interest to
-          me, the idea of creating a program capable of autonomously solving
-          problems is almost magical.
+          Throughout my career, I have had the opportunity to work on a variety of
+          projects, from small-scale applications to large-scale enterprise
+          systems. I developed experience in Nodejs, Nextjs, Reactjs, unit
+          testing, test coverage, JavaScript, and TypeScript in agile
+          environments. I am a team player who can work well under pressure,
+          prioritize tasks and meet deadlines. I am willing to learn new
+          technologies like artificial intelligence. AI has been a subject of
+          great interest to me, the idea of creating a program capable of
+          autonomously solving problems is almost magical.
         </p>
 
         <p className={hubballiTypography.className}>
