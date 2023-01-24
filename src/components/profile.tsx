@@ -17,7 +17,7 @@ export function Profile() {
 
       <div className="profile-title">
         <h1 className={hubballiTypography.className}>Marcos Aurélio</h1>
-        <h3 className={hubballiTypography.className}>Software Developer</h3>
+        <h3 className={hubballiTypography.className}>Software Engineer</h3>
       </div>
 
       <article className="profile-description">
