@@ -1,5 +1,6 @@
-Just a personal portfolio.
-## Runnig locally
+Personal portfolio.
+
+## Running locally
 
 ```bash
  - pnpm i
