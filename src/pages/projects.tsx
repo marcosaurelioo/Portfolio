@@ -6,7 +6,7 @@ export default function Projects() {
       <h1>Projects</h1>
 
       <div className="projects-box-container">
-        <Link href="https://github.com/marcosaurelioo/AudioScript" target="_blank">
+        <Link href="https://audioscript.aurelian.dev" target="_blank">
           <div className="projects-box">
             <span>AudioScript</span>
             <p>Automated video and audio transcription made simple.</p>
