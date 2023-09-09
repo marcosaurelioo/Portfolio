@@ -13,17 +13,24 @@ export default function Projects() {
           </div>
         </Link>
 
-        <Link href="https://github.com/marcosaurelioo/Youtube-Transcriptor" target="_blank">
+        <Link
+          href="https://github.com/marcosaurelioo/Youtube-Transcriptor"
+          target="_blank"
+        >
           <div className="projects-box">
             <span>Youtube transcriptor</span>
-            <p>Python script to transcribe youtube videos based on Whisper AI.</p>
+            <p>
+              Python script to transcribe youtube videos based on Whisper AI.
+            </p>
           </div>
         </Link>
 
-        <Link href="https://github.com/marcosaurelioo/Money-Conversion" target="_blank">
+        <Link href="https://moneyhub.aurelian.dev" target="_blank">
           <div className="projects-box">
-            <span>Money conversion</span>
-            <p>Money conversion challenge of a bank app.</p>
+            <span>MoneyHub</span>
+            <p>
+              A curated list of cryptocurrency coins and their market values.
+            </p>
           </div>
         </Link>
       </div>
