@@ -43,12 +43,12 @@ export default function App({ Component, pageProps }: AppProps) {
           >
             Home
           </button>
-          <button
+          {/* <button
             className={route == "/about" ? "active-aside-button" : ""}
             onClick={() => push("/about")}
           >
             About
-          </button>
+          </button> */}
           <button
             className={route == "/projects" ? "active-aside-button" : ""}
             onClick={() => push("/projects")}

@@ -12,7 +12,7 @@ export default function Home() {
       <h1>Marcos Aurélio</h1>
 
       <p>
-        Engineering Enthusiast, I am Software Engineer at
+        Software Engineer at
         <Link href="https://www.stone.com.br" target="_blank">
           <strong> @Stone</strong>.
         </Link>
@@ -52,15 +52,16 @@ export default function Home() {
           </Link>
         </div>
       </div>
-
       <p>
-        I derive pleasure from the process of creating applications that are not
-        only aesthetically pleasing but also highly functional. My passion lies
-        in the seamless integration of design and functionality, resulting in
-        applications that are both visually stunning and user-friendly.
+        Rust enthusiast. Over the course of my career, I have been actively
+        engaged in contributing to a variety of projects, showcasing my
+        proficiency in developing solutions for both compact applications and
+        expansive enterprise systems.
       </p>
 
-      <p>marcosaureliolelo@outlook.com</p>
+      <p>Skills - JavaScript • TypeScript • Rust • Golang • React</p>
+
+      <p>contact-me: marcosaureliolelo@outlook.com</p>
     </section>
   );
 }

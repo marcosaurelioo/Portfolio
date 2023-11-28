@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <section>
       <h1>Projects</h1>
-
+     
       <div className="projects-box-container">
         <Link href="https://audioscript.aurelian.dev" target="_blank">
           <div className="projects-box">
