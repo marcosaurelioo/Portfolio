@@ -9,7 +9,7 @@ export default function Projects() {
         <Link href="https://audioscript.aurelian.dev" target="_blank">
           <div className="projects-box">
             <span>AudioScript</span>
-            <p>Automated video and audio transcription made simple.</p>
+            <p>AI-based automatic video and audio transcription.</p>
           </div>
         </Link>
 
@@ -20,7 +20,7 @@ export default function Projects() {
           <div className="projects-box">
             <span>Youtube transcriptor</span>
             <p>
-              Python script to transcribe youtube videos based on Whisper AI.
+              Python script to transcribe youtube videos based on Open-AI Whisper AI model.
             </p>
           </div>
         </Link>

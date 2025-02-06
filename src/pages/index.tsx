@@ -13,8 +13,8 @@ export default function Home() {
 
       <p>
         Software Engineer at
-        <Link href="https://www.stone.com.br" target="_blank">
-          <strong> @Stone</strong>.
+        <Link href="https://www.localline.co" target="_blank">
+          <strong> @Localline</strong>.
         </Link>
       </p>
 
@@ -53,13 +53,13 @@ export default function Home() {
         </div>
       </div>
       <p>
-        Rust enthusiast. Over the course of my career, I have been actively
+        Over the course of my career, I have been actively
         engaged in contributing to a variety of projects, showcasing my
         proficiency in developing solutions for both compact applications and
         expansive enterprise systems.
       </p>
 
-      <p>Skills - JavaScript • TypeScript • Rust • Golang • React</p>
+      <p>Skills: JavaScript • TypeScript • Python • Django • React • Figma</p>
 
       <p>contact-me: marcosaureliolelo@outlook.com</p>
     </section>
