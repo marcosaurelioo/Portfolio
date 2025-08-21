@@ -52,16 +52,8 @@ export default function Home() {
           </Link>
         </div>
       </div>
-      <p>
-        Over the course of my career, I have been actively
-        engaged in contributing to a variety of projects, showcasing my
-        proficiency in developing solutions for both compact applications and
-        expansive enterprise systems.
-      </p>
 
-      <p>Skills: JavaScript • TypeScript • Python • Django • React • Figma</p>
-
-      <p>contact-me: marcosaureliolelo@outlook.com</p>
+      <p>Building things...</p>
     </section>
   );
 }
