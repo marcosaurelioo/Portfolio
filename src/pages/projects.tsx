@@ -4,7 +4,7 @@ export default function Projects() {
   return (
     <section>
       <h1>Projects</h1>
-     
+
       <div className="projects-box-container">
         <Link href="https://audioscript.aurelian.dev" target="_blank">
           <div className="projects-box">
@@ -30,6 +30,15 @@ export default function Projects() {
             <span>MoneyHub</span>
             <p>
               A curated list of cryptocurrency coins and their market values.
+            </p>
+          </div>
+        </Link>
+
+        <Link href="https://orbis-novus-blog.vercel.app/" target="_blank">
+          <div className="projects-box">
+            <span>Orbis Novus</span>
+            <p>
+              A personal blog where I write about technology.
             </p>
           </div>
         </Link>

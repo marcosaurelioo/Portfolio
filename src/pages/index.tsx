@@ -14,7 +14,7 @@ export default function Home() {
       <p>
         Software Engineer at
         <Link href="https://www.localline.co" target="_blank">
-          <strong> @Localline</strong>.
+          {' '} @Localline
         </Link>
       </p>
 
@@ -54,6 +54,10 @@ export default function Home() {
       </div>
 
       <p>Building things...</p>
+      <p>
+        Check my blog:
+        <Link href="https://orbis-novus-blog.vercel.app/" target="_blank"> Orbis Novus</Link>
+      </p>
     </section>
   );
 }
